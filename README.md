@@ -12,9 +12,7 @@ In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen.
 Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? 
 Wat voor principes heb je gebruikt en getest? En is het leuk?
 
-## Opdracht
-
-### Ontwerpen met en voor echte mensen
+## Ontwerpen met en voor echte mensen
 
 Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. 
 Een echt mens. 
@@ -26,12 +24,47 @@ Wie is deze persoon dan voor wie je dit gaat maken?
 Wat vindt deze persoon leuk of juist niet? 
 Hoe bedient deze persoon een computer?
 
-- [Opdracht - Ontwerpen met en voor echte mensen](course/opdracht-human-centered-design.md)
-
-### Leerdoelen
+## Leerdoelen
 
 - _Leren hoe je (design) principles in een ontwerp kan toepassen._
 - _User needs begrijpen en gebruiken in je ontwerp._
 - _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
 
-[Rubric](#rubric)
+## Opdracht
+Marie is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
+
+**Hoe werkt een podcast voor Marie?**
+In een transcriptie gaat natuurlijk nogal wat nuance verloren. Maak een oplossing die minimaal net zo prettig is voor iemand die niet kan luisteren als voor iemand die wel kan luisteren.
+
+**Hoe werken closed captions voor Marie?**
+Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions kunnen verrijken zodat deze voor Marie meer betekenis krijgen?
+
+### Oplevering
+Voor mij de opdracht gekregen om closed captions een sfeer te geven, zodat Marie een wat beter ervaring heeft bij het kijken van films en series.
+
+## Week 1
+### Bevindingen
+* Afhankelijk van gebarentaal en liplezen
+* Dol op series kijken
+* Nederlandse tv is een slecht voorbeeld van hoe closed captions moeten worden weergegeven
+* Voorbeelden hiervan zijn, ondertiteling neemt niet mee wie wat zegt, omgevingsgeluiden worden niet meegenomen
+* Netflix handelt closed captions heel goed
+* "spannende muziek" hoe weet ze of het spannend is?
+* Een kookprogramma genaamd "High on the hog" is erg goed ondertiteld. Bijvoorbeeld je ziet hoe een man emotioneel verteld over slaafverleden. Man praat dan, en dan staat er [snik of piepende stem dan weet ze de emotie. 
+* Stranger Things is het goed, maar slaan ze door. Too obvious dingen zoals explosies die ze ziet worden ook getoond in closed captions.
+* Misschien een optie brengen, dat wanneer mensen fluisteren dat de tekst kleiner wordt
+* Kleuren gebruik op basis wie praat (GTST)
+* Mischien vanuit lettertype bepaalde emoties weergeven bijvoorbeeld wanneer iemand schreeuwt dat het in hoofdletter wordt gezet
+* Indicatie van waar geluid vandaan komt
+* Closed captions in het algemeen een hele makeover geven
+* Spanning aan voelen door trillingen
+
+### Series
+Marie bood ons ook scenes uit van sommige series die we kunnen gebruiken in de uitwerking van onze eindoplevering
+
+* The bear
+* High on the hock
+
+
+
+
