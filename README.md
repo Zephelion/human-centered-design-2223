@@ -65,6 +65,28 @@ Marie bood ons ook scenes uit van sommige series die we kunnen gebruiken in de u
 * The bear
 * High on the hock
 
+## Gameplan
+Nu de uitdaging om een manier te vinden hoe ik de closed captions ga redesignen in code.
+
+### Opties
+
+1. De tag `<track>` in HTML wordt gebruikt om getimede teksttracks op te geven voor media-elementen zoals `<audio>` en `<video>`. Hier is een voorbeeld van het gebruik van de `<track>`-tag:
+
+```html
+<video controls>
+  <source src="example.mp4" type="video/mp4">
+  <track kind="subtitles" label="English" src="example-en.vtt" default>
+  <track kind="subtitles" label="Spanish" src="example-es.vtt">
+</video>
+```
+
+In dit voorbeeld bevat het `<video>`-element twee geneste `<track>`-elementen. Het kenmerk kind wordt gebruikt om het type teksttrack te specificeren, in dit geval "ondertitels". Het labelkenmerk specificeert het label dat wordt weergegeven voor de teksttrack en het src-kenmerk specificeert de URL van het bestand dat de teksttrackgegevens bevat. Het standaardattribuut wordt gebruikt om aan te geven welke teksttrack standaard moet worden weergegeven.
+
+Merk op dat het src-attribuut moet verwijzen naar een geldig teksttrackbestand in de WebVTT-indeling, wat een eenvoudige op tekst gebaseerde indeling is voor getimede teksttracks.
+
+2. Gebruik maken van een soort van closed caption library. Deze manier geeft me het meeste vrijheid om de closer caption te customizen.
+
+
 
 
 
