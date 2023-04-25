@@ -36,7 +36,10 @@ async function initialize(){
 const onPlayerStateChange = (event) => {
 	if (event.data == YT.PlayerState.PLAYING && !playing) {
 		playing = true;
-		navigator.vibrate(500);
+		setTimeout(() => {
+			navigator.vibrate(500);
+			console.log("Nu vibraten");
+		}, 3000);
 		console.log('started playing');
 	} else if (event.data == YT.PlayerState.PAUSED && playing) {
 		playing = false;
