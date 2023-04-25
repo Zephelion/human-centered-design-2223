@@ -41,7 +41,7 @@ const onPlayerStateChange = (event) => {
 			
 			setTimeout(() => {
 				navigator.vibrate(100);
-			}, 1000);
+			}, 2000);
 		}, 2000);
 		console.log('started playing');
 	} else if (event.data == YT.PlayerState.PAUSED && playing) {
