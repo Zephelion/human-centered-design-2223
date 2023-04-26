@@ -38,7 +38,7 @@ const onPlayerStateChange = (event) => {
 		playing = true;
 		setTimeout(() => {
 			navigator.vibrate([
-				500,50,500,50,500,50,500,50,500,50,500,50,100,50,100,50
+				5000,50,5000
 			]
 			);
 				console.log("nu moet het trillen beginnen")
