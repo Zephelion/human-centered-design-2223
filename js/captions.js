@@ -4,6 +4,8 @@ export async function getCaptions() {
 
 	const result = captions.map(function (item) {
 		let [startTime, endTime] = item.vtt.split(" --> ");
+		console.log(startTime, endTime);
+		 
 		startTime = vttTimestampToSeconds(startTime);
 		endTime = vttTimestampToSeconds(endTime);
 
