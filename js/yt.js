@@ -37,12 +37,11 @@ const onPlayerStateChange = (event) => {
 	if (event.data == YT.PlayerState.PLAYING && !playing) {
 		playing = true;
 		setTimeout(() => {
-			navigator.vibrate(100);
-			
-			setTimeout(() => {
-				navigator.vibrate(100);
-			}, 2000);
-		}, 2000);
+			navigator.vibrate(
+				[100, 50, 100, 50, 100]
+			);
+				console.log("nu moet het trillen beginnen")
+		}, 15000);
 		console.log('started playing');
 	} else if (event.data == YT.PlayerState.PAUSED && playing) {
 		playing = false;
