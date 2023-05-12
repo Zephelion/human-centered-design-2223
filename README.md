@@ -24,20 +24,34 @@ Mijn oplossing was om closed captions te verbeteren en effects beter naar voren 
 * Onnodige dingen die in closed captions ziten weghalen.
 
 ## Link
-[Oplossing]()
+Hier is een oplossing van hoe ik closed captions zou verbeteren klik de onderstaande link om de fragment te bekijken.
+[Oplossing](https://zephelion.github.io/human-centered-design-2223/)
 
+## Design principles
+In deze sectie zal ik uitleggen hoe ik elke van de design prinipes heb toegepast. Ik probeerde elke design principe zo goed mogelijk uit te werken om de applicatie zo exclusief mogelijk voor Mary te maken.
 
-## Ontwerpen met en voor echte mensen
+### Study Situation
+Het ontwerpprincipe van de studiesituatie, of gesitueerd leren, is met name relevant voor dove personen, aangezien zij vaak te maken hebben met unieke uitdagingen bij het verkrijgen van toegang tot informatie en leren in traditionele klasomgevingen.
 
-Voor dit vak krijg je een ontwerp-opdracht die je gaat maken voor 1 mens. 
-Een echt mens. 
-Je moet je ontwerp elke week testen. 
-Door te testen en te itereren ga je je ontwerp verbeteren. 
-Uiteindelijk heb je een ontwerp dat exclusief gemaakt is voor 1 persoon. 
-Een _exclusive design_ ... 
-Wie is deze persoon dan voor wie je dit gaat maken? 
-Wat vindt deze persoon leuk of juist niet? 
-Hoe bedient deze persoon een computer?
+Ik had gelukkig de mogelijkheid om Mary te kunnen interviewen op de eerste dag. Waardoor ik aan de hand van de kort interview meteen de situatie kon schetsen voor Mary en de problemen die zei tegen komt bij het gebruik van closed captions. Wat ik al eerder heb gezegd is, dat Mary moeite heeft om bepaalde nuances in closed captions te begrijpen en ze vindt ook in het algemeen dat sommige closed captions heel overdreven zijn en sommmige momenten dan te weinig informatie geven.
+
+### Prioritise Identity
+Prioriteit geven aan identiteit bij ontwerp en productontwikkeling houdt in dat rekening wordt gehouden met de culturele, sociale en persoonlijke identiteit van de personen die het product zullen gebruiken. Deze benadering erkent dat mensen unieke identiteiten hebben die hun voorkeuren, behoeften en gedrag beïnvloeden, en dat producten die zijn ontworpen met deze identiteiten in het achterhoofd, waarschijnlijk relevanter, toegankelijker en wenselijker zijn voor de beoogde gebruikers.
+
+Mary is doof en ze heeft al aangegeven, dat closed captions beter kunnen, maar om de product nog prettiger te maken had Mary een paar series aan ons gegeven die zij heel leuk vond. Deze series waren The Bear en The Last of Us. Ik heb er voor gekozen om een scene uit de The last of Us te pakken en de closed captions door op te verbeten. Mary is bekend met The Last of Us dus ik denk dat het wel prettiger voor haar is.
+
+### Ignore Conventions
+Het ontwerpprincipe "Ignore Conventions" betekent het opzettelijk negeren van gevestigde ontwerpnormen en het verkennen van nieuwe en onconventionele benaderingen om iets innovatiefs en unieks te creëren. Dit principe moedigt ontwerpers aan om traditionele ontwerppraktijken uit te dagen, te experimenteren met nieuwe ideeën en de grenzen te verleggen van wat in hun vakgebied als "normaal" of "aanvaardbaar" wordt beschouwd.
+
+Door conventies te negeren, kunnen ontwerpers producten en ontwerpen maken die zich onderscheiden van de massa, de aandacht van mensen trekken en de status quo uitdagen. Deze aanpak kan met name effectief zijn op gebieden als kunst, mode en technologie, waar innovatie en creativiteit hoog in het vaandel staan.
+
+Omdat closed captions heel "blant" zijn probeerde ik sowieso emotie wat meer naar voren te brengen in bepaalde situaties bijvoorbeeld wanneer een persoon schreeuwt alles in caps lock maken of wanneer een situatie "suspense" opbouwt met tril werken om zo dat gevoel te simuleren.
+
+### Add nonsense
+Van wat ik heb begrepen is nonsense toevoegen het concept om een wat niet normale element in je applicatie te introduceren. Ik probeerde deze principes toe te passen door gebasseerd op hoe langzamer hand een persoon in dr emotie begint te verdiepen dan zou de UI hierop reageren. Bijvoorbeeld hoe bozer een persoon is hoe roder bijvoorbeeld de scherm wordt (hier komt ik later op terug:)).
+
+<hr>
+
 
 ## Leerdoelen
 
@@ -56,8 +70,10 @@ Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film o
 
 ### Oplevering
 Voor mij de opdracht gekregen om closed captions een sfeer te geven, zodat Marie een wat beter ervaring heeft bij het kijken van films en series.
+<hr>
 
 ## Week 1
+In de eerste week hadden ik en me groepje de mogelijkheid om Mary te interviewen hiervoor hadden we een reeks van vragen aan haar gesteld om een beter beeld te krijgen wat voor haar kunnen maken.
 ### Bevindingen
 * Afhankelijk van gebarentaal en liplezen
 * Dol op series kijken
@@ -79,6 +95,10 @@ Marie bood ons ook scenes uit van sommige series die we kunnen gebruiken in de u
 
 * The bear
 * High on the hock
+* The Last of Us
+
+Ik heb gekozen voor een scene uit The Last of Us om daar de closed caption te kunnen verbeteren. Hiervoor heb ik de panick attack scene gekozen en probeerde ik voor de eerste minuut de closed captions te verbeteren.
+[Joe has a panick attack](https://www.youtube.com/watch?v=mOvWvB7QKQA)
 
 ## Gameplan
 Nu de uitdaging om een manier te vinden hoe ik de closed captions ga redesignen in code.
