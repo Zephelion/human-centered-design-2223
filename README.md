@@ -121,6 +121,7 @@ Merk op dat het src-attribuut moet verwijzen naar een geldig teksttrackbestand i
 
 2. Gebruik maken van een soort van closed caption library. Deze manier geeft me het meeste vrijheid om de closer caption te customizen.
 
+3. Uiteindelijk had ik ervoor gekozen om gwn een soort van object te maken die de captions displayed op een bepaalde tijd. Als je benieuwd er naar bent mag je even in de code koekeloeren.
 
 
 
