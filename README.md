@@ -52,6 +52,32 @@ Van wat ik heb begrepen is nonsense toevoegen het concept om een wat niet normal
 
 <hr>
 
+### User Scenario
+
+#### Who?
+Mary is Doof (met een hoofdletter inderdaad, dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is). Je zult begrijpen dat Marie moeite heeft met dingen waar geluid een grote rol speelt.
+
+#### What?
+Mary wilt een verbeterde closed captions om bepaalde nuances beter te begrijpen.
+
+#### How?
+Na een lange dag is Mary eindelijk thuis en start ze haar favoriete show The Last of Us op. Ze ziet dat eer nieuwe update is voor closed captions en kiest ervoor om het uit te proberen. De closed captions worden geactiveerd en Mary merkt al meteen dat bepaalde dialogen waar ze moeite mee had (mensen praten buiten beeld, mensen praten door elkaar, suspense momemnts) veel beter begrijpt.
+
+Stap 1. 
+Mary kiest een film uit
+
+Stap 2.
+Ze schakelt de newly improved closed captions in
+
+Stap 3.
+Dialogen waar ze voorheen moeite mee had begrijpt ze 10x beter
+
+Stap 4.
+Mary gaat met een prettig gevoel naar bed en begint de volgende dag met het verder kijken
+
+#### Why?
+Marie wilt films/series zo goed mogelijk ervaren desondanks haar beperking. Deze verbeterde closed captions zorgt ervoor, zodat zij de beste ervaring kan krijgen.
+
 
 ## Leerdoelen
 
