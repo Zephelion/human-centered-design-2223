@@ -1,16 +1,31 @@
-# Human Centered Design @cmda-minor-web 2022 - 2023
+# Human Centered Design - Improvement on closed captions
 
-Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen.
+Human Centered Design is een  methode voor het ontwerpen van gebruiksvriendelijke interactieve toepassingen. Ik heb de opdracht gekregen om een verbetering te maken op closed captions voor mijn klant Marie van Driesche.
 
 > What distinguishes Human-Centered Design from other problem-solving approaches is its obsessive focus on understanding the perspective of the person who experiences a problem, their needs, and whether the solution that has been designed for them is truly meeting their needs effectively or not. At its most effective, the very people who experience a problem the most are a constant part of the design process and when possible, become part of the design team itself. - [What Is Human-Centered Design?](https://medium.com/dc-design/what-is-human-centered-design-6711c09e2779)
 
-Door regelmatig te testen met je doelgroep kom je tot een beter en passend ontwerp. 
-Een Frontender heeft verstand van interactie, vormgeving én techniek. 
-Als je web technieken beheerst kun je je ideeën snel prototypen en testen in een browser. Je kan dan aanpassingen doorvoeren, uitproberen en weer testen ...
-        
-In het vak Human Centered Design gaan we dingen ontwerpen voor echte mensen. 
-Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? 
-Wat voor principes heb je gebruikt en getest? En is het leuk?
+![Plaatje](/images/plaatjereadme.png)
+
+## Onderzoeksvraag
+hoe kan ik de nuances die soms worden gemist in closed captions beter overbrengen aan een blind persoon?
+
+- Wat zijn dingen die Marie niet prettig vind aan closed captions?
+- Hoe kan ik dingen zoals geluid proberen te simuleren voor Marie?
+
+## Probleemdefinitie
+Mary is doof (inderdaad met een hoofdletter, wat betekent dat ze zichzelf als doof beschouwt, wat simpelweg betekent dat haar moedertaal Nederlandse Gebarentaal is). Je zult begrijpen dat Mary moeite heeft met dingen waarbij de stem een ​​grote rol speelt.
+Voor Marie gaat er enorm veel nuance verloren tijdens het kijken naar een film of een documentaire. Bij veel films worden closed captions aangeboden, maar die zijn zo neutraal als maar kan. Hoe zou je closed captions kunnen verrijken zodat deze voor Marie meer betekenis krijgen?
+
+## Oplossing
+Mijn oplossing was om closed captions te verbeteren en effects beter naar voren te brengen. Ik heb een paar functie hiervoor geimplementeerd.
+
+* Accent van bepaalde personages naar voren brengen.
+* Wanneer bepaalde effecten in beeld komen (*pot drops*) een interactie sturen naar Marie hiervoor maak ik gebruik van een tril.
+* Onnodige dingen die in closed captions ziten weghalen.
+
+## Link
+[Oplossing]()
+
 
 ## Ontwerpen met en voor echte mensen
 
