@@ -157,6 +157,13 @@ Om de hele fragment te bekijken refereen ik je naar deze link [Concept 1](https:
 ### Tweede concept
 Bij mijn tweede concept wilde ik suspense volle situatie simuleren hier voor heb ik gebruik gemaakt van de tril functie. Deze functie werk wel alleen op android.
 
+Link naar de tweede concept [Suspense](https://zephelion.github.io/human-centered-design-2223/test2/index.html)
+
+### Aan en opmerkingen van Concept 2
+* Marie vond de concept heel leuk het zou ook fijner zijn als het langzamer hand intenser wordt.
+
+## Week 3
+Deze week heb ik geprobeerd om beide concepten te verbeten aan de hand van de feedback van vorige test 
 
 
 

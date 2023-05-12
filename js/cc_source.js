@@ -35,7 +35,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Elderly man",
+                speaker: null,
                 speech: "who the hell are you?",
                 emotion: null,
                 text_type: "speech",
@@ -50,7 +50,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Joel",
+                speaker: null,
                 speech: "Just someone passing through",
                 emotion: null,
                 text_type: "speech",
@@ -65,7 +65,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Joel",
+                speaker: null,
                 speech: "take the gun out 2 fingers only put it outta reach.",
                 emotion: null,
                 text_type: "speech",
@@ -74,28 +74,28 @@ export const captions = [
         ],
         cc_class: null
     },
-    {
-        vtt: "00:00:46.000 --> 00:00:47.000",
-        start: "",
-        end: "",
-        text: [
-            {
-                speaker: null,
-                speech: "places gun",
-                emotion: null,
-                text_type: "sound",
-                text_class: null
-            }
-        ],
-        cc_class: null
-    },
+    // {
+    //     vtt: "00:00:46.000 --> 00:00:47.000",
+    //     start: "",
+    //     end: "",
+    //     text: [
+    //         {
+    //             speaker: null,
+    //             speech: "places gun",
+    //             emotion: null,
+    //             text_type: "sound",
+    //             text_class: null
+    //         }
+    //     ],
+    //     cc_class: null
+    // },
     {
         vtt: "00:00:50.000 --> 00:00:50.900",
         start: "",
         end: "",
         text: [
             {
-                speaker: "Elderly man",
+                speaker: null,
                 speech: "why didn't you shoot em?",
                 emotion: null,
                 text_type: "speech",
@@ -110,7 +110,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Elderly woman",
+                speaker: null,
                 speech: "the gun is all the way over there",
                 emotion: null,
                 text_type: "speech",
@@ -155,7 +155,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Elderly man",
+                speaker: null,
                 speech: "you made him soup?",
                 emotion: null,
                 text_type: "speech",
@@ -170,7 +170,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Elderly woman",
+                speaker: null,
                 speech: "yea I did",
                 emotion: null,
                 text_type: "speech",
@@ -215,7 +215,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Elderly man",
+                speaker: null,
                 speech: "Well I aint seen 'em",
                 emotion: null,
                 text_type: "speech",
@@ -230,7 +230,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Joel",
+                speaker: null,
                 speech: "I haven't told you what he looks like",
                 emotion: null,
                 text_type: "speech",
@@ -275,7 +275,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Elderly man",
+                speaker: null,
                 speech: "then I aint seen em",
                 emotion: null,
                 text_type: "speech",
@@ -290,7 +290,7 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Elderly woman",
+                speaker: null,
                 speech: "he's got a girl with him",
                 emotion: null,
                 text_type: "speech",
@@ -320,8 +320,8 @@ export const captions = [
         end: "",
         text: [
             {
-                speaker: "Joel",
-                speech: "no.",
+                speaker: null,
+                speech: "NO.",
                 emotion: null,
                 text_type: "speech",
                 text_class: null
