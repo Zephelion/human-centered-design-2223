@@ -123,6 +123,41 @@ Merk op dat het src-attribuut moet verwijzen naar een geldig teksttrackbestand i
 
 3. Uiteindelijk had ik ervoor gekozen om gwn een soort van object te maken die de captions displayed op een bepaalde tijd. Als je benieuwd er naar bent mag je even in de code koekeloeren.
 
+## Week 2
+Deze week ben ik echt begonnen met het testen van mijn product. Hiervoor had ik 2 prototypes gemaakt om te kijken hoe Mary het ervaart.
+
+### Eerste concept
+Mijn eerste concept was simpel weg een verbetering op de closed captions
+
+| Effect |
+|:--:|
+|![Effect 1](/images/effect1.png)|
+
+In dit fragment opent de man de deur, omdat de huis wat ouder is kraakt hij en dat heb ik weer gegeven door [*door creaks*]
+
+| Closed caption |
+|:---:|
+|![Closed captions](/images/effect2.png)|
+Omdat Joel uit beeld is had de naam erbij gezet, zodat Mary weet wie aan het woord is.
+
+| Closed caption |
+|:---:|
+|![Closed caption](/images/effect3.png)|
+Meeste closed captions nemen niet de tijd om de accent van bepaalde karakters in de show goed naar voren te brengen, omdat man een wat "southern" accent heeft probeerde ik ook echt, dat duidelijk te maken. Dus in plaats van "Why did you not shoot him?" had ik "Why didn't you shoot em?".
+
+Om de hele fragment te bekijken refereen ik je naar deze link [Concept 1](https://zephelion.github.io/human-centered-design-2223/)
+
+### Aan en opmerkingen van Concept 1
+
+* Mary vond did fragment heel fijn, omdat ze er al bekend mee was.
+* Ze vond het leuk, dat de accent van de acteur naar voren komen.
+* Wanneer een persoon in beeld is en die praat dan hoef je niet perse de naam er bij te zetten
+* Bij het pistool neerleggen weet ze niet hoe dat klinkt (voor ons hoor je een heel klein tik geluidje) ze ziet namelijk ook dat de oude man de pistool op tafel legt dus dat ik die effect erbij heb gezet was wel een beetje onnodig.
+
+### Tweede concept
+Bij mijn tweede concept wilde ik suspense volle situatie simuleren hier voor heb ik gebruik gemaakt van de tril functie. Deze functie werk wel alleen op android.
+
+
 
 
 
