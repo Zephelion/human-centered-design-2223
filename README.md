@@ -48,7 +48,7 @@ Door conventies te negeren, kunnen ontwerpers producten en ontwerpen maken die z
 Omdat closed captions heel "blant" zijn probeerde ik sowieso emotie wat meer naar voren te brengen in bepaalde situaties bijvoorbeeld wanneer een persoon schreeuwt alles in caps lock maken of wanneer een situatie "suspense" opbouwt met tril werken om zo dat gevoel te simuleren.
 
 ### Add nonsense
-Van wat ik heb begrepen is nonsense toevoegen het concept om een wat niet normale element in je applicatie te introduceren. Ik probeerde deze principes toe te passen door gebasseerd op hoe langzamer hand een persoon in dr emotie begint te verdiepen dan zou de UI hierop reageren. Bijvoorbeeld hoe bozer een persoon is hoe roder bijvoorbeeld de scherm wordt (hier komt ik later op terug:)).
+Van wat ik heb begrepen is nonsense toevoegen het concept om een wat niet normale element in je applicatie te introduceren. Ik probeerde deze principes toe te passen door gebasseerd door wanneer je een knop klikt confetti komt :eyes:
 
 <hr>
 

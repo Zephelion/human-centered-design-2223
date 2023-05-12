@@ -1,5 +1,19 @@
 var player;
 let playing = false;
+// const video = document.querySelector('.video-stream');
+
+const nonsense = document.querySelector('.nonsense');
+
+nonsense.addEventListener("click", () => {
+	for (let i = 0; i < 100; i++) {
+	  const confetti = document.createElement("div");
+	  confetti.classList.add("confetti");
+	  confetti.style.left = Math.random() * window.innerWidth + "px";
+	  confetti.style.top = Math.random() * window.innerHeight + "px";
+	  document.body.appendChild(confetti);
+	}
+  });
+
 
 
 import { getCaptions } from "./captions.js";
@@ -37,11 +51,8 @@ const onPlayerStateChange = (event) => {
 	if (event.data == YT.PlayerState.PLAYING && !playing) {
 		playing = true;
 		setTimeout(() => {
-			navigator.vibrate(100);
-			
-			setTimeout(() => {
-				navigator.vibrate(100);
-			}, 2000);
+
+
 		}, 2000);
 		console.log('started playing');
 	} else if (event.data == YT.PlayerState.PAUSED && playing) {

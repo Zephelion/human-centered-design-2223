@@ -229,3 +229,28 @@ main {
     .cc__extra {
       text-transform: uppercase;
     }
+
+    button.nonsense{
+      position: absolute;
+      bottom: 163px;
+      left: 310px;
+      color: black;
+    }
+
+    .confetti {
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      background-color: #f00;
+      border-radius: 50%;
+      animation: confetti 1s ease-in-out;
+    }
+    
+    @keyframes confetti {
+      0% {
+        transform: translate(0, 0) rotate(0deg);
+      }
+      100% {
+        transform: translate(100vw, 100vh) rotate(720deg);
+      }
+    }
