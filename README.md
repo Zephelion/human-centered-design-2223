@@ -163,7 +163,11 @@ Link naar de tweede concept [Suspense](https://zephelion.github.io/human-centere
 * Marie vond de concept heel leuk het zou ook fijner zijn als het langzamer hand intenser wordt.
 
 ## Week 3
-Deze week heb ik geprobeerd om beide concepten te verbeten aan de hand van de feedback van vorige test 
+Deze week heb ik geprobeerd om beide concepten te verbeten aan de hand van de feedback van vorige test
+
+### Verbeterpunten
+Voor concept 1 had ik onnodige elementen weggehaald.
+en voor concept 2 was het trillen een beetje buiten mijn scope om te verbeteren.
 
 
 
